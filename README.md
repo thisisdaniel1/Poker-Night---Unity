@@ -1,4 +1,8 @@
 # Poker-Night - Unity
+
+You can play it here: https://thisisdaniel81.itch.io/poker-night
+See controls under description there
+
 Created using Unity in C#. Triggers and UI elements were created using native Unity objects. 
 
 Dialogue sorted and created using Ink.
